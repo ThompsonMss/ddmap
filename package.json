@@ -1,0 +1,28 @@
+{
+  "name": "severino",
+  "version": "1.0.13",
+  "description": "Gerenciador - Workspace Thompson",
+  "main": "./lib/index.js",
+  "bin": {
+    "severino": "bin/severinomodule.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThompsonMss/cli-workspace-agenciatrack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ThompsonMss/cli-workspace-agenciatrack/issues"
+  },
+  "keywords": [
+    "cli-reactjs",
+    "cli",
+    "node",
+    "reactjs"
+  ],
+  "author": "Thompson Silva <https://github.com/ThompsonMss> (https://github.com/ThompsonMss)",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^5.1.0"
+  }
+}
