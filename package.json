@@ -1,17 +1,17 @@
 {
   "name": "severino",
-  "version": "1.1.0",
-  "description": "Gerenciador - Workspace Thompson",
+  "version": "1.1.1",
+  "description": "Gerenciador de código - ReactJS com Typescript",
   "main": "./lib/index.js",
   "bin": {
     "severino": "bin/severinomodule.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ThompsonMss/cli-workspace-agenciatrack.git"
+    "url": "https://github.com/ThompsonMss/severino"
   },
   "bugs": {
-    "url": "https://github.com/ThompsonMss/cli-workspace-agenciatrack/issues"
+    "url": "https://github.com/ThompsonMss/severino/issues"
   },
   "keywords": [
     "cli-reactjs",
