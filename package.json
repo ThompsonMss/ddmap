@@ -1,6 +1,6 @@
 {
   "name": "severino",
-  "version": "1.0.13",
+  "version": "1.1.0",
   "description": "Gerenciador - Workspace Thompson",
   "main": "./lib/index.js",
   "bin": {
