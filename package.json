@@ -1,10 +1,10 @@
 {
-  "name": "severino",
-  "version": "1.1.2",
-  "description": "Gerenciador de código - ReactJS com Typescript",
+  "name": "ddmap",
+  "version": "1.0.0",
+  "description": "Upload source map - Bugsnag.",
   "main": "./lib/index.js",
   "bin": {
-    "severino": "bin/severinomodule.js"
+    "ddmap": "bin/ddmapmodule.js"
   },
   "repository": {
     "type": "git",
