@@ -1,6 +1,6 @@
 {
   "name": "ddmap",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Upload source map - Bugsnag.",
   "main": "./lib/index.js",
   "bin": {
