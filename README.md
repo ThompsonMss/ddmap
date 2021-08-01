@@ -30,5 +30,15 @@ ddmap --set-version=2.2.45 --android --ios
 
 Pronto! Sua nova versão já foi mapeada pelo Bugsnag.
 
+## Comandos
+
+| Comando  | Descrição  |
+|---|---|
+| ddmap --help  | Listagem de todos os comandos  |
+| ddmap --set-key  | Setando API-KEY do bugsnag no ddmap  |
+| ddmap --set-version | Setando uma nova versão  |
+| ddmap --android | Subindo source map do Android (Necessário o comanda --set-version) |
+| ddmap --ios | Subindo source map do IOs (Necessário o comanda --set-version) |
+
 ## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
