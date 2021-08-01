@@ -1,7 +1,7 @@
 {
   "name": "ddmap",
-  "version": "1.0.3",
-  "description": "Upload source map - Bugsnag.",
+  "version": "1.0.4",
+  "description": "ddmap é um CLI escrito em NodeJS para facilitar o upload do sourcemap de uma versão específica da sua aplicação em React Native para o monitoramento de erros no ([Bugsnag](https://www.bugsnag.com/)).",
   "main": "./lib/index.js",
   "bin": {
     "ddmap": "bin/ddmapmodule.js"
@@ -15,7 +15,10 @@
   },
   "keywords": [
     "cli",
-    "node"
+    "node",
+    "react-natie",
+    "bugsbag",
+    "sourcemap"
   ],
   "author": "Thompson Silva <https://github.com/ThompsonMss> (https://github.com/ThompsonMss)",
   "license": "ISC",
